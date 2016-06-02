@@ -17,7 +17,7 @@ namespace pictureProcess
         public Form1()
         {
             InitializeComponent();
-
+              
             this.pictureBox1.Image = new Bitmap(@"C:\Users\haoliang\Desktop\picture\omeoclickimg (17).jpg");
         }  
 
