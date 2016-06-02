@@ -19,7 +19,7 @@ namespace pictureProcess
             InitializeComponent();
 
             this.pictureBox1.Image = new Bitmap(@"C:\Users\haoliang\Desktop\picture\omeoclickimg (17).jpg");
-        }
+        }  
 
         private void button1_Click(object sender, EventArgs e)
         {
