@@ -175,7 +175,7 @@ namespace pictureProcess
 
             return bitmap;
         }
-        #endregion
+        #endregion   
 
         private void DiPian()
         {
